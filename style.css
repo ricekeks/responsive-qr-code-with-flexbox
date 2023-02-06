@@ -13,7 +13,9 @@ html{
     font-size: 100%;
 }
 
-body: 0 auto;
+body{
+	margin: 0 auto;
+}
 
 #wrapper{
 	display: flex;
